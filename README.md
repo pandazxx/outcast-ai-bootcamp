@@ -6,8 +6,9 @@ A real & complete project for outcasters to enter AI world
 
 ## Expected outcome
 
-- Mindset for AI assisted development
-- Workflow for above
+- Mindset and workflow for AI assisted development
+- workflow for loosely coupled team colaboration.
+- knowledge base for everyone to learn from
 - Ideas for our next project
 
 ## Execution plan
