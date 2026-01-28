@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A real & complete project for outcasters to enter AI world
+A real & complete project for outcasts to enter AI world
 
 ## Expected outcome
 
@@ -10,6 +10,12 @@ A real & complete project for outcasters to enter AI world
 - workflow for loosely coupled team colaboration.
 - knowledge base for everyone to learn from
 - Ideas for our next project
+
+
+## This project is not
+
+- For AI Eningeering
+- A DEMO project
 
 ## Execution plan
 
